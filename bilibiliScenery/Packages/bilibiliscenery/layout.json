@@ -1,0 +1,134 @@
+{
+  "content": [
+    {
+      "path": "Business.json",
+      "size": 122,
+      "date": 132451605880000000
+    },
+    {
+      "path": "ContentInfo/bilibiliScenery/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132451605880000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 270,
+      "date": 132461050076692066
+    },
+    {
+      "path": "MarketplaceData/bilibiliscenery/ContentInfo_Thumbnail.jpg",
+      "size": 13520,
+      "date": 132451605880000000
+    },
+    {
+      "path": "MarketplaceData/bilibiliscenery/Marketplace.json",
+      "size": 270,
+      "date": 132459959193997749
+    },
+    {
+      "path": "scenery/bilibiliSceneryPoi.bgl",
+      "size": 244,
+      "date": 132459958685759553
+    },
+    {
+      "path": "scenery/BILIBILISCENERYPOL.BGL",
+      "size": 906,
+      "date": 132459958685839473
+    },
+    {
+      "path": "scenery/mycompany/modelLib.BGL",
+      "size": 47972,
+      "date": 132461050076492581
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD1-L.PNG.DDS",
+      "size": 2796344,
+      "date": 132461051399714149
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD1-L.PNG.DDS.json",
+      "size": 102,
+      "date": 132461051399684234
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD1-T.PNG.DDS",
+      "size": 5592560,
+      "date": 132461049121394755
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD1-T.PNG.DDS.json",
+      "size": 119,
+      "date": 132461049121344890
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD1.PNG.DDS",
+      "size": 1398256,
+      "date": 132459285788860021
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD1.PNG.DDS.json",
+      "size": 119,
+      "date": 132459285788840078
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD11.PNG.DDS",
+      "size": 1398256,
+      "date": 132459238786829834
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD11.PNG.DDS.json",
+      "size": 119,
+      "date": 132459238786809886
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD2-L.PNG.DDS",
+      "size": 2796344,
+      "date": 132461049116368013
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD2-L.PNG.DDS.json",
+      "size": 102,
+      "date": 132461049116318149
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD2-T.PNG.DDS",
+      "size": 5592560,
+      "date": 132461049140455706
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD2-T.PNG.DDS.json",
+      "size": 119,
+      "date": 132461049140385891
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD3-L.PNG.DDS",
+      "size": 2796344,
+      "date": 132461049125633424
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD3-L.PNG.DDS.json",
+      "size": 102,
+      "date": 132461049125603506
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD3-T.PNG.DDS",
+      "size": 5592560,
+      "date": 132461049135532892
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD3-T.PNG.DDS.json",
+      "size": 119,
+      "date": 132461049135473057
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD3.PNG.DDS",
+      "size": 1398256,
+      "date": 132459285787318062
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/CD3.PNG.DDS.json",
+      "size": 119,
+      "date": 132459285787288135
+    }
+  ]
+}

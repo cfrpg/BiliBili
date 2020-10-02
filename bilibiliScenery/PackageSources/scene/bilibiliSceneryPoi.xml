@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: capitalLand-->
+	<SceneryObject lat="31.31014886287125" lon="121.50062694373693" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{DE9C4AB7-761C-4C18-5E45-F8C7F4E64F25}" scale="0.950000"/>
+	</SceneryObject>
+	<LandmarkLocation instanceId="{2ACD04A5-5DAA-4D59-8403-0DF31105C941}" type="POI" name="BILIBILI" lat="31.31100381076772" lon="121.50142299897442" alt="160.46275619696826"/>
+</FSData>
+

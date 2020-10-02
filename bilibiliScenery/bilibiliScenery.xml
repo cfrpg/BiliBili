@@ -1,0 +1,8 @@
+<Project Version="2" Name="bilibiliScenery" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\bilibiliscenery.xml</Package>
+	</Packages>
+</Project>
+
